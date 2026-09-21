@@ -13,8 +13,7 @@ Four folders — one for each assignment.
 ├── Assignment_IV/                    Assignment IV
 │   ├── code/                         Python files
 │   ├── figures/                      plots
-│   └── drafts/                       earlier drafts
-└── Final_Assessment_CICIoMT2024/     final paper
+└── Final Project/     final paper
 ```
 
 ## 📖 How to read this folder
